@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VQ2SQdiU4VHqOWExp3xl84XsIcAzC+FPI9JAZXemzsyip5TpxqshdzydsujdMMHnscCYsSD5K6J6+9woV6Qxnw==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\_templates\\TestTemplate\\TestTemplate.Api\\TestTemplate.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASR DIGITAL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ASR DIGITAL\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ASR DIGITAL\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASR DIGITAL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASR DIGITAL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASR DIGITAL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Workspace\TestTemplate\TestTemplate.Ui\obj\Debug\net6.0\TestTemplate.Ui.csproj.AssemblyReference.cache
+C:\Workspace\TestTemplate\TestTemplate.Ui\obj\Debug\net6.0\TestTemplate.Ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\TestTemplate\TestTemplate.Ui\obj\Debug\net6.0\TestTemplate.Ui.AssemblyInfoInputs.cache
+C:\Workspace\TestTemplate\TestTemplate.Ui\obj\Debug\net6.0\TestTemplate.Ui.AssemblyInfo.cs
+C:\Workspace\TestTemplate\TestTemplate.Ui\obj\Debug\net6.0\TestTemplate.Ui.csproj.CoreCompileInputs.cache
+C:\Workspace\TestTemplate\TestTemplate.Ui\obj\Debug\net6.0\TestTemplate.Ui.MvcApplicationPartsAssemblyInfo.cache

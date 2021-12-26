@@ -1,0 +1,72 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "sajad kardel",
+  "sourceName": "TestTemplate",
+  "classifications": [ "blazor", "api" ],
+  "identity": "TestTemplate-01",
+  "name": "TestTemplate",
+  "shortName": "tt",
+  "defaultName": "DemoTestTemplate.Ui",
+  "description": "a Demo for DemoTestTemplate.Ui project",
+  "tags": {
+    "type": "solution",
+    "language": "C#"
+  },
+  
+  "symbols": {
+
+    "bestFriend": {
+      "displayName": "what is your best friend name?",
+      "type": "parameter",
+      "description": "best friend name",
+      "datatype": "text",
+      "defaultValue": "sajad",
+      "replaces": "{bestFriend}"
+    },
+
+    "favoriteFood": {
+      "type": "parameter",
+      "displayName": "what is your favorite food?",
+      "description": "favorite food",
+      "datatype": "choice",
+      "choices": [
+        {
+          "choice": "pizza"
+        },
+        {
+          "choice": "hamburger"
+        }
+      ],
+      "defaultValue": "pizza",
+      "replaces": "{foodName}"
+    },
+
+    "likeJob": {
+      "type": "parameter",
+      "displayName": "do you like your job?",
+      "description": "like or not like job",
+      "datatype": "bool",
+      "defaultValue": "true"
+    },
+
+    "setUi": {
+      "type": "parameter",
+      "displayName": "Does your project have Ui?",
+      "description": "set or unset Ui project",
+      "datatype": "bool",
+      "defaultValue": "true"
+    }
+
+  },
+
+  "sources": [
+    {
+      "modifiers": [
+        {
+          "condition": "(!setUi)",
+          "exclude": ["TestTemplate.Ui/**"]
+        }
+      ]
+    }
+  ]
+}

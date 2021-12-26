@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6070639a-5146-4693-a077-f60d8d530117": {
+      "ProjectGuid": "6070639a-5146-4693-a077-f60d8d530117",
+      "DisplayName": "TestTemplate.Ui",
+      "ColorIndex": 0
+    },
+    "ed5e9a3e-7c36-45b7-95df-a15c9224575e": {
+      "ProjectGuid": "ed5e9a3e-7c36-45b7-95df-a15c9224575e",
+      "DisplayName": "TestTemplate.Api",
+      "ColorIndex": 1
+    },
+    "7f279e19-09ce-4c23-8b88-738baf285c0b": {
+      "ProjectGuid": "7f279e19-09ce-4c23-8b88-738baf285c0b",
+      "DisplayName": ".template.config",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "df36ae60-33f7-4ca4-b947-ea2bb4a5ff59": {
+      "ProjectGuid": "df36ae60-33f7-4ca4-b947-ea2bb4a5ff59",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    },
+    "ca03802d-7099-4e26-b5a5-1b09f03d7b1a": {
+      "ProjectGuid": "ca03802d-7099-4e26-b5a5-1b09f03d7b1a",
+      "DisplayName": "TestTemplate.Api",
+      "ColorIndex": 4
+    },
+    "d26c5838-16f3-4209-9d87-d62ae20f165e": {
+      "ProjectGuid": "d26c5838-16f3-4209-9d87-d62ae20f165e",
+      "DisplayName": "TestConsole",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
